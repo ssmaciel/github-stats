@@ -1,6 +1,6 @@
-# [GitHub Stats Visualization](https://github.com/jasongaylord/github-stats)
+# [GitHub Stats Visualization](https://github.com/ralmsdeveloper/github-stats)
 
-<a href="https://github.com/jasongaylord/github-stats">
+<a href="https://github.com/ralmsdeveloper/github-stats">
    
 ![](https://github.com/ralmsdeveloper/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/ralmsdeveloper/github-stats/blob/master/generated/languages.svg)
