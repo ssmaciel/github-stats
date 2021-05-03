@@ -2,8 +2,8 @@
 
 <a href="https://github.com/jasongaylord/github-stats">
    
-![](https://github.com/brunohbrito/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/brunohbrito/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/ralmsdeveloper/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/ralmsdeveloper/github-stats/blob/master/generated/languages.svg)
 
 </a>
 
